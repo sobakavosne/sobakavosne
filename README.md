@@ -1,6 +1,5 @@
 ### :fire: My Stats :
 <br>[![GitHub Streak](https://streak-stats.demolab.com/?user=lenchevskii)](https://git.io/streak-stats)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenchevskii&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>![Dzmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenchevskii&theme=transparent&show_icons=true)
 
 <!--
