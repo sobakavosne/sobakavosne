@@ -1,5 +1,5 @@
 <br>[![GitHub Streak](https://streak-stats.demolab.com/?user=lenchevskii)](https://git.io/streak-stats)
-<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenchevskii&theme=transparent&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenchevskii&theme=transparent&show_icons=true)
 
 <!--
 **lenchevskii/lenchevskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
