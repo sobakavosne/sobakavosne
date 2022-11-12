@@ -1,5 +1,5 @@
-<a href="https://www.linkedin.com/in/lambda-l"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=linkedin&style=flat&color=0077B5&logo=linkedin" alt="my-linkedin"/></a>
-<a href="https://instagram.com/sobakavosne"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=instagram&style=flat&color=white&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/lambda-l"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=LinkedIn&style=flat&color=0077B5&logo=linkedin" alt="my-linkedin"/></a>
+<a href="https://instagram.com/sobakavosne"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Instagram&style=flat&color=white&logo=instagram"></a>
 
 <!--
 **lenchevskii/lenchevskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
