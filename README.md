@@ -15,7 +15,7 @@ Programming activities:
 
 5. Research: JavaScript data structure processing speed    - JavaScript, Python     12.2021 - 01.2022
 
-6. Work:     Israel                                        - TypeScript             03.2022 - 11.2022
+6. Work:     USA/Israel                                    - TypeScript             03.2022 - 11.2022
              - Cyber Security SaaS (DAST)
              - CLI
 
