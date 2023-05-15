@@ -5,6 +5,7 @@ Programming activity (started from 2019):
 
 2. Work: UK/Israel (outsource)                                  - JavaScript, Python     02.2021 - 08.2021
   - 1 Billion Generator (MySQL data processing speed testing)
+  - Password Manager
   - Parser (Social Networks Parser)
 
 3. Work: USA/Worldwide                                          - Solidity, JavaScript   09.2021
