@@ -19,7 +19,7 @@ Programming activities (timeline in descending order 🠗):
              - Password Manager
              - Parser (Social Networks Parser)
 
-1. Studying: EPAM + self-learning                          - C#, JavaScript, Python   01.2019 - 01.2021
+1. Studying: EPAM Lab + self-learning                      - C#, JavaScript, Python   01.2019 - 01.2021
 ```
 <a href="https://www.linkedin.com/in/lambda-l"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=LinkedIn&style=flat&color=0077B5&logo=linkedin" alt="my-linkedin"/></a>
 <a href="https://instagram.com/sobakavosne"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Instagram&style=flat&color=white&logo=instagram"></a>
