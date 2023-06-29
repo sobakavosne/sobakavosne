@@ -15,7 +15,7 @@ Programming activities (timeline in descending order 🠗):
              - Free TON (DEX)
 
 2. Work:     UK/Israel (outsource)                         - JavaScript, Python       02.2021 - 08.2021
-             - 1 Billion Generator (DB speed testing)
+             - 1+ Billion Generator (DB speed testing)
              - Password Manager
              - Parser (Social Networks Parser)
 
