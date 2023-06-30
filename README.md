@@ -12,7 +12,7 @@ Programming activities (timeline in descending order 🠗):
 4. Studying: Haskell Course                                - Haskell                  11.2021 - 11.2021
 
 3. Work:     Worldwide (open-source)                       - Solidity, JavaScript     09.2021
-             - Free TON (DEX)
+             - Free TON (Decentralized Exchange)
 
 2. Work:     UK/Israel (outsource)                         - JavaScript, Python       02.2021 - 08.2021
              - 1+ Billion Generator (DB speed testing)
