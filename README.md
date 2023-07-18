@@ -1,15 +1,15 @@
 ```
 Programming activities (timeline in descending order 🠗):
 
-7. Studying:    Cardano | CS Center                         - Haskell                01.2023 - 07.2023
+7. Studying:     Cardano | CS Center                        - Haskell                01.2023 - 07.2023
 
-6. Work:        Bright Security (USA/Israel)                - TypeScript             03.2022 - 11.2022
-                - Cyber Security SaaS (DAST)
-                - CLI for DAST
+6. Work:         Bright Security (USA/Israel)               - TypeScript             03.2022 - 11.2022
+                 - Cyber Security SaaS (DAST)
+                 - CLI for DAST
 
-5. Research:    JavaScript DS processing speed              - JavaScript, Python     12.2021 - 01.2022
+5. Research:     JavaScript DS processing speed             - JavaScript, Python     12.2021 - 01.2022
 
-4. Studying:        Haskell Course                             - Haskell             10.2021 - 11.2021
+4. Studying:     Haskell Course                             - Haskell                10.2021 - 11.2021
 
 3. Work:         Radiance Team (Worldwide, Open-Source)     - Solidity, JavaScript   09.2021
                  - Free TON (Decentralized Exchange)
