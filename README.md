@@ -20,7 +20,7 @@ Programming activities (timeline in descending order 🠗):
                  - Parser (Social Networks Parser)
 
 1. Work & Lab:   EPAM                                       - C#, JavaScript         01.2019 - 01.2021
-                 - Booking Application
+                 - Ticket Management Service
 ```
 
 <!--
