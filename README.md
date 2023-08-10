@@ -1,7 +1,7 @@
 ```
 Programming activities (timeline in descending order 🠗):
 
-7. Study:       Cardano | CS Center                        - Haskell                01.2023 to the present
+7. Study:       Cardano | CS Center                        - Haskell, Go            01.2023 to the present
 
 6. Work:        Bright Security (USA/Israel)               - TypeScript             03.2022 - 11.2022 (9 mths)
                 - Cyber Security SaaS (DAST)
