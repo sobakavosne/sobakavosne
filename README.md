@@ -1,6 +1,6 @@
-```
 Programming activities (timeline in descending order 🠗):
 
+```
 8. Study:       Cardano Foundation | Computer Science Center   - Haskell, Go, Scala     01.2023 to the present
 
 7. Hackathon:   Imaguru Startup Hub (Poland)                   - TypeScript             02.2023           (>1 mth)
