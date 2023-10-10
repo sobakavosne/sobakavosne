@@ -1,4 +1,4 @@
-Programming activities (timeline in descending order 🠗):
+Programming activities:
 
 ```
 8. Study:       Cardano Foundation | Computer Science Center   - Haskell, Go, Scala     01.2023 to the present
