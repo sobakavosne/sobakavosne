@@ -23,7 +23,7 @@ Programming activities:
                 Role:     Software Engineer
                 Projects: • Free TON (DEx)
 
-3. Work:        Company:  Abiatec (Belarus/UK/Israel)      - JavaScript, Python     02.2021 - 09.2021 (9 mths)
+3. Work:        Company:  Abiatec (UK/Israel)      - JavaScript, Python     02.2021 - 09.2021 (9 mths)
                 Role:     Software Engineer
                 Projects: • 1+ Billion Generator
                           • Password Manager
