@@ -1,4 +1,4 @@
-Programming activities:
+#### Programming activities:
 
 ```
 9.  Work:       Company:  Digital Calasyst (Poland)        - Python                 10.2023 - 11.2023  (2 mths)
