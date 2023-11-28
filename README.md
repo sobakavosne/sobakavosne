@@ -29,7 +29,7 @@
                           • Password Manager
                           • Parser
 
-2. Study:       Company:  BelHard Academy                  - Python                 05.2020 - 06.2020  (2 mths)
+2.  Study:      Company:  BelHard Academy                  - Python                 05.2020 - 06.2020  (2 mths)
                 Role:     Software Engineer
                 Projects: • AI Basics
 
