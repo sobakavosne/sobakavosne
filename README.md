@@ -27,7 +27,7 @@
                 Role:     Software Engineer
                 Projects: • 1+ Billion Generator
                           • Password Manager
-                          • Parser
+                          • Parser (AI embedded)
 
 2.  Study:      Company:  BelHard Academy                  - Python                 05.2020 - 06.2020  (2 mths)
                 Role:     Software Engineer
