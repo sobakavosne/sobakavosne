@@ -2,7 +2,7 @@
 
 ```
 9.  Work:       Company:  Digital Calasyst (Poland)        - Python                 10.2023 - 11.2023  (2 mths)
-                Role:     Technical Lead
+                Role:     Software Developer & Lead
                 Projects: • Jeweler Bot
 
 8.  Study:      Cardano Foundation | CS Center             - Haskell, Go, Scala     01.2023 - 10.2023 (10 mths)
