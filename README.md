@@ -1,6 +1,8 @@
 #### Programming activities:
 
 ```
+10. Study:      Exercism                                   - Haskell                12.2023 to the present
+
 9.  Work:       Company:  Digital Calasyst (Poland)        - Python                 10.2023 - 11.2023  (2 mths)
                 Role:     Software Developer & Lead
                 Projects: • Jeweler Bot
