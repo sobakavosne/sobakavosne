@@ -10,7 +10,7 @@
 8.  Study:      Cardano Foundation | CS Center             - Haskell, Go, Scala     01.2023 - 10.2023 (10 mths)
 
 7.  Hackathon:  Company:  Imaguru Startup Hub (Poland)     - TypeScript             02.2023            (>1 mth)
-                Role:     Software Engineer
+    (Volunteer) Role:     Software Engineer
                 Projects: • HackForPolitzek
 
 6.  Work:       Company:  Bright Security (USA/Israel)     - TypeScript             03.2022 - 11.2022  (9 mths)
@@ -22,7 +22,7 @@
     & Study:    Haskell Course                             - Haskell                10.2021 - 11.2021  (3 mths)
 
 4.  Hackathon:  Company:  Radiance Team (Open-Source)      - JavaScript, Solidity   09.2021            (>1 mth)
-                Role:     Software Engineer
+    (Paid)      Role:     Software Engineer
                 Projects: • Free TON (DEx)
 
 3.  Work:       Company:  Abiatec (UK/Israel)              - JavaScript, Python     02.2021 - 09.2021  (9 mths)
