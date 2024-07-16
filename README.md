@@ -5,7 +5,7 @@
 
 12. Study:         Company:  EPAM Systems                  - Python/Scala/SQL     02.2024 - 06.2024  (5 mths)       
                    Role:     Big Data Developer
-                   Projects: Big Data Basics
+                   Projects: • Big Data Basics
 
 11. Study:         Exercism                                - Haskell              12.2023 - 01.2024  (3 mths)
 
