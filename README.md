@@ -1,9 +1,12 @@
 #### Programming activities:
 
 ```
-13. Productivity:  XMonad configuration                    - Haskell/Bash         07.2024 to the present
+14. Test task:     Company:  Biocad                        - Haskell/Neo4j        08.2024 - 09.2024  (2 mths)
+                   Role:     Haskell Bioinformatics Dev.
 
-12. Study:         Company:  EPAM Systems                  - Python/Scala/SQL     02.2024 - 06.2024  (5 mths)       
+13. Productivity:  XMonad configuration                    - Haskell/Bash         06.2024 - 07.2024  (2 mths)
+
+12. Study:         Company:  EPAM Systems                  - Python/Scala/SQL     02.2024 - 05.2024  (5 mths)       
                    Role:     Big Data Developer
                    Projects: • Big Data Basics
 
