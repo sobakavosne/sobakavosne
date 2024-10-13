@@ -1,7 +1,9 @@
 #### Programming activities:
 
 ```
-16. Research:      Quantum Computing with Haskell          - Haskell              09.2024 - ...
+17. Task:          Role:     Scala Developer               - Scala                10.2024 to the present
+
+16. Research:      Quantum Computing with Haskell          - Haskell              09.2024             (1 mth)
 
 15. Task:          Role:     Bioinformatics Engineer       - Haskell/Neo4j        07.2024 - 08.2024  (2 mths)
 
